@@ -1,12 +1,12 @@
 // Edit the brand and enquiry details here.
 window.SITE_CONFIG = {
-  brandName: "Fibre Sculptures",
+  brandName: "Shrradha Yash",
   tagline: "Selected collection",
-  logoImage: "", // optional filename placed in assets/, e.g. "brand-logo.png"
+  logoImage: "assets\\Shrradha Yash Logo.jpg", // optional filename placed in assets/, e.g. "brand-logo.png"
   showBrandName: true, // set false if your logo already includes the brand name
   currency: "INR",
   whatsappNumber: "", // digits only, with country code, e.g. 919876543210
-  email: "",
+  email: "yash21creation@gmail.com",
   copy: {
     heroEyebrow: "Fibre sculptures · Selected pieces",
     heroTitle: "Forms with",
