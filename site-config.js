@@ -2,10 +2,10 @@
 window.SITE_CONFIG = {
   brandName: "Shrradha Yash",
   tagline: "Selected collection",
-  logoImage: "assets\\Shrradha Yash Logo.jpg", // optional filename placed in assets/, e.g. "brand-logo.png"
+  logoImage: "Shrradha Yash Logo.jpg", // filename inside assets/
   showBrandName: true, // set false if your logo already includes the brand name
   currency: "INR",
-  whatsappNumber: "", // digits only, with country code, e.g. 919876543210
+  whatsappNumber: "7208603389", // digits only, with country code, e.g. 919876543210
   email: "yash21creation@gmail.com",
   copy: {
     heroEyebrow: "Fibre sculptures · Selected pieces",
@@ -23,6 +23,6 @@ window.SITE_CONFIG = {
     featureDescription: "From a proud lion to a serene Buddha, the collection moves between strength and stillness, tradition and contemporary display.",
     enquiryEyebrow: "Your next piece begins here",
     enquiryTitle: "Which one has your attention?",
-    enquiryDescription: "Open any piece to ask about its size, price or availability. Add your contact details in site-config.js to connect the enquiry button to WhatsApp or email."
+    enquiryDescription: "Open any piece to ask about its size, price or availability. Contact us on the provided phone number or email address",
   }
 };
