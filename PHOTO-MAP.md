@@ -1,0 +1,154 @@
+# Photo file map
+
+- black-horse-bust.jpg -> assets/black-horse-bust.jpg
+- black-horse.jpg -> assets/black-horse.jpg
+- Buddha-black.jpg -> assets/buddha-black.jpg
+- laughing-buddha-3.jpg -> assets/laughing-buddha-3.jpg
+- Om Panel.jpg -> assets/om-panel.jpg
+- OmSai-panel.jpg -> assets/omsai-panel.jpg
+- rajmudra.jpg -> assets/rajmudra.jpg
+- SDP_5018 copy.JPG -> assets/sdp_5018.jpg
+- SDP_5019 copy.JPG -> assets/sdp_5019.jpg
+- SDP_5020 copy.JPG -> assets/sdp_5020.jpg
+- SDP_5021 copy.JPG -> assets/sdp_5021.jpg
+- SDP_5023 copy.JPG -> assets/sdp_5023.jpg
+- SDP_5024 copy.JPG -> assets/sdp_5024.jpg
+- SDP_5025 copy.JPG -> assets/sdp_5025.jpg
+- SDP_5026 copy.JPG -> assets/sdp_5026.jpg
+- SDP_5027 copy.JPG -> assets/sdp_5027.jpg
+- SDP_5028 copy.JPG -> assets/sdp_5028.jpg
+- SDP_5029 copy.JPG -> assets/sdp_5029.jpg
+- SDP_5030 copy.JPG -> assets/sdp_5030.jpg
+- SDP_5031 copy.JPG -> assets/sdp_5031.jpg
+- SDP_5032 copy.JPG -> assets/sdp_5032.jpg
+- SDP_5033 copy.JPG -> assets/sdp_5033.jpg
+- SDP_5034 copy.JPG -> assets/sdp_5034.jpg
+- SDP_5035 copy.JPG -> assets/sdp_5035.jpg
+- SDP_5036 copy.jpg -> assets/sdp_5036.jpg
+- SDP_5037 copy.jpg -> assets/sdp_5037.jpg
+- SDP_5038 copy.JPG -> assets/sdp_5038.jpg
+- SDP_5039 copy.JPG -> assets/sdp_5039.jpg
+- SDP_5040 copy.JPG -> assets/sdp_5040.jpg
+- SDP_5041 copy.JPG -> assets/sdp_5041.jpg
+- SDP_5042 copy.jpg -> assets/sdp_5042.jpg
+- SDP_5043 copy.JPG -> assets/sdp_5043.jpg
+- SDP_5044 copy.JPG -> assets/sdp_5044.jpg
+- SDP_5045 copy.JPG -> assets/sdp_5045.jpg
+- SDP_5046 copy.JPG -> assets/sdp_5046.jpg
+- SDP_5047 copy.JPG -> assets/sdp_5047.jpg
+- SDP_5048 copy.JPG -> assets/sdp_5048.jpg
+- SDP_5049 copy.JPG -> assets/sdp_5049.jpg
+- SDP_5050 copy.JPG -> assets/sdp_5050.jpg
+- SDP_5051 copy.JPG -> assets/sdp_5051.jpg
+- SDP_5052 copy.jpg -> assets/sdp_5052.jpg
+- SDP_5053 copy.JPG -> assets/sdp_5053.jpg
+- SDP_5054 copy.JPG -> assets/sdp_5054.jpg
+- SDP_5055 copy.JPG -> assets/sdp_5055.jpg
+- SDP_5056 copy.JPG -> assets/sdp_5056.jpg
+- SDP_5057 copy.JPG -> assets/sdp_5057.jpg
+- SDP_5058 copy.JPG -> assets/sdp_5058.jpg
+- SDP_5059 copy.jpg -> assets/sdp_5059.jpg
+- SDP_5060 copy.JPG -> assets/sdp_5060.jpg
+- SDP_5061 copy.JPG -> assets/sdp_5061.jpg
+- SDP_5062 copy.JPG -> assets/sdp_5062.jpg
+- SDP_5063 copy.JPG -> assets/sdp_5063.jpg
+- SDP_5064 copy.jpg -> assets/sdp_5064.jpg
+- SDP_5065 copy.JPG -> assets/sdp_5065.jpg
+- SDP_5066 copy.jpg -> assets/sdp_5066.jpg
+- SDP_5067 copy.JPG -> assets/sdp_5067.jpg
+- SDP_5068 copy.JPG -> assets/sdp_5068.jpg
+- SDP_5069 copy.JPG -> assets/sdp_5069.jpg
+- SDP_5070 copy.JPG -> assets/sdp_5070.jpg
+- SDP_5071 copy.JPG -> assets/sdp_5071.jpg
+- SDP_5072 copy.JPG -> assets/sdp_5072.jpg
+- SDP_5073 copy.JPG -> assets/sdp_5073.jpg
+- SDP_5074 copy.JPG -> assets/sdp_5074.jpg
+- SDP_5075 copy.JPG -> assets/sdp_5075.jpg
+- SDP_5076 copy.JPG -> assets/sdp_5076.jpg
+- SDP_5077 copy.jpg -> assets/sdp_5077.jpg
+- SDP_5078 copy.JPG -> assets/sdp_5078.jpg
+- SDP_5079 copy.JPG -> assets/sdp_5079.jpg
+- SDP_5080 copy.JPG -> assets/sdp_5080.jpg
+- SDP_5081 copy.JPG -> assets/sdp_5081.jpg
+- SDP_5082 copy.jpg -> assets/sdp_5082.jpg
+- SDP_5083 copy.jpg -> assets/sdp_5083.jpg
+- SDP_5084 copy.jpg -> assets/sdp_5084.jpg
+- SDP_5085 copy.jpg -> assets/sdp_5085.jpg
+- SDP_5086 copy.JPG -> assets/sdp_5086.jpg
+- SDP_5087 copy.JPG -> assets/sdp_5087.jpg
+- SDP_5088 copy.jpg -> assets/sdp_5088.jpg
+- SDP_5089 copy.jpg -> assets/sdp_5089.jpg
+- SDP_5090 copy.JPG -> assets/sdp_5090.jpg
+- SDP_5091 copy.JPG -> assets/sdp_5091.jpg
+- SDP_5092 copy.JPG -> assets/sdp_5092.jpg
+- SDP_5093 copy.JPG -> assets/sdp_5093.jpg
+- SDP_5094 copy.JPG -> assets/sdp_5094.jpg
+- SDP_5095 copy.JPG -> assets/sdp_5095.jpg
+- SDP_5096 copy.JPG -> assets/sdp_5096.jpg
+- SDP_5097 copy.JPG -> assets/sdp_5097.jpg
+- SDP_5098 copy.JPG -> assets/sdp_5098.jpg
+- SDP_5099 copy.JPG -> assets/sdp_5099.jpg
+- SDP_5101 copy.JPG -> assets/sdp_5101.jpg
+- SDP_5102 copy.JPG -> assets/sdp_5102.jpg
+- SDP_5103 copy.jpg -> assets/sdp_5103.jpg
+- SDP_5104 copy.JPG -> assets/sdp_5104.jpg
+- SDP_5105 copy.JPG -> assets/sdp_5105.jpg
+- SDP_5106 copy.JPG -> assets/sdp_5106.jpg
+- SDP_5107 copy.JPG -> assets/sdp_5107.jpg
+- SDP_5108 copy.JPG -> assets/sdp_5108.jpg
+- SDP_5109 copy.jpg -> assets/sdp_5109.jpg
+- SDP_5110 copy.JPG -> assets/sdp_5110.jpg
+- SDP_5111 copy.jpg -> assets/sdp_5111.jpg
+- SDP_5112 copy.JPG -> assets/sdp_5112.jpg
+- SDP_5113 copy.JPG -> assets/sdp_5113.jpg
+- SDP_5114 copy.JPG -> assets/sdp_5114.jpg
+- SDP_5115 copy.JPG -> assets/sdp_5115.jpg
+- SDP_5116 copy.JPG -> assets/sdp_5116.jpg
+- SDP_5117 copy.JPG -> assets/sdp_5117.jpg
+- SDP_5118 copy.JPG -> assets/sdp_5118.jpg
+- SDP_5119 copy.JPG -> assets/sdp_5119.jpg
+- SDP_5120 copy.jpg -> assets/sdp_5120.jpg
+- SDP_5121 copy.JPG -> assets/sdp_5121.jpg
+- SDP_5122 copy.JPG -> assets/sdp_5122.jpg
+- SDP_5123 copy.JPG -> assets/sdp_5123.jpg
+- SDP_5124 copy.JPG -> assets/sdp_5124.jpg
+- SDP_5125 copy.JPG -> assets/sdp_5125.jpg
+- SDP_5126 copy.JPG -> assets/sdp_5126.jpg
+- SDP_5127 copy.JPG -> assets/sdp_5127.jpg
+- SDP_5129 copy.JPG -> assets/sdp_5129.jpg
+- SDP_5130 copy.JPG -> assets/sdp_5130.jpg
+- SDP_5131 copy.JPG -> assets/sdp_5131.jpg
+- SDP_5132 copy.JPG -> assets/sdp_5132.jpg
+- SDP_5133 copy.JPG -> assets/sdp_5133.jpg
+- SDP_5134 copy.JPG -> assets/sdp_5134.jpg
+- SDP_5135 copy.JPG -> assets/sdp_5135.jpg
+- SDP_5136 copy.JPG -> assets/sdp_5136.jpg
+- SDP_5137 copy.JPG -> assets/sdp_5137.jpg
+- SDP_5138 copy.JPG -> assets/sdp_5138.jpg
+- SDP_5139 copy.JPG -> assets/sdp_5139.jpg
+- SDP_5140 copy.JPG -> assets/sdp_5140.jpg
+- SDP_5141 copy.JPG -> assets/sdp_5141.jpg
+- SDP_5142 copy.JPG -> assets/sdp_5142.jpg
+- SDP_5143 copy.JPG -> assets/sdp_5143.jpg
+- SDP_5144 copy.JPG -> assets/sdp_5144.jpg
+- SDP_5145 copy.JPG -> assets/sdp_5145.jpg
+- SDP_5146 copy.jpg -> assets/sdp_5146.jpg
+- SDP_5147 copy.JPG -> assets/sdp_5147.jpg
+- SDP_5148 copy.JPG -> assets/sdp_5148.jpg
+- SDP_5149 copy.JPG -> assets/sdp_5149.jpg
+- SDP_5150 copy.JPG -> assets/sdp_5150.jpg
+- SDP_5151 copy.JPG -> assets/sdp_5151.jpg
+- SDP_5152 copy.JPG -> assets/sdp_5152.jpg
+- SDP_5153 copy.JPG -> assets/sdp_5153.jpg
+- SDP_5154 copy.JPG -> assets/sdp_5154.jpg
+- SDP_5155 copy.JPG -> assets/sdp_5155.jpg
+- SDP_5159 copy.JPG -> assets/sdp_5159.jpg
+- SDP_5160 copy.JPG -> assets/sdp_5160.jpg
+- SDP_5161 copy.JPG -> assets/sdp_5161.jpg
+- shivaji-maharaj-bust.jpg -> assets/shivaji-maharaj-bust.jpg
+- Shivaji-Maharaj-Statue.jpg -> assets/shivaji-maharaj-statue.jpg
+- shivajimaharaj-bust.jpg -> assets/shivajimaharaj-bust.jpg
+- shivajimaharaj-small.jpg -> assets/shivajimaharaj-small.jpg
+- Small-Horse-1.jpg -> assets/small-horse-1.jpg
+- Small-Horse-2.jpg -> assets/small-horse-2.jpg
+- white-horse.jpg -> assets/white-horse.jpg

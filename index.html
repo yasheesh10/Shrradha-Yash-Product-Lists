@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f3efe7">
+  <meta name="description" content="Explore a selected collection of fibre sculptures, devotional figures, wildlife forms and sculptural objects.">
+  <title>Fibre Sculptures — Selected Collection</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./site-config.js"></script>
+  <script src="./products.js"></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#collection">Skip to collection</a>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Back to top">
+      <span class="brand-mark" id="brandMark">F</span>
+      <span class="brand-copy"><strong id="brandName">Fibre Sculptures</strong><small id="brandTagline">Selected collection</small></span>
+    </a>
+    <button class="menu-toggle" id="menuToggle" type="button" aria-label="Open menu" aria-expanded="false">☰</button>
+    <nav class="nav" id="nav">
+      <a href="#collection">Collection</a>
+      <a href="#about">About the forms</a>
+      <a class="nav-cta" href="#enquire">Enquire</a>
+    </nav>
+  </header>
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow" id="heroEyebrow">Fibre sculptures · Selected pieces</p>
+        <h1><span id="heroTitle">Forms with</span> <em id="heroAccent">presence.</em></h1>
+        <p class="hero-lede" id="heroDescription">A considered collection of Indian icons, devotional figures, wildlife forms and sculptural objects — made to bring character to the spaces they enter.</p>
+        <div class="hero-actions">
+          <a class="button button-dark" href="#collection">Explore the collection <span>↘</span></a>
+          <button class="button button-outline" type="button" data-share>Share this page <span>↗</span></button>
+        </div>
+        <div class="hero-tags"><span>Heritage</span><span>Devotion</span><span>Statement forms</span></div>
+      </div>
+      <div class="hero-art">
+        <img src="./assets/shivaji-maharaj-statue.jpg" alt="Standing Chhatrapati Shivaji Maharaj fibre sculpture">
+        <div class="hero-index">01 <span>/ SELECTED FORMS</span></div>
+        <div class="hero-caption"><small>Featured form</small><strong>Chhatrapati Shivaji Maharaj</strong></div>
+      </div>
+    </section>
+    <section class="intro" id="about">
+      <div>
+        <p class="eyebrow" id="introEyebrow">A collection to explore</p>
+        <h2 id="introTitle">From familiar icons to unexpected statement pieces.</h2>
+      </div>
+      <p id="introDescription">Each piece has its own character — from devotional forms to sculptural figures with a bolder presence. Browse the collection, open a piece to see more angles, and ask about the details that matter to you.</p>
+    </section>
+    <section class="collection section-wrap" id="collection">
+      <div class="section-head">
+        <div><p class="eyebrow" id="collectionEyebrow">The selected collection</p><h2 id="collectionTitle">Find your form.</h2></div>
+        <p id="collectionDescription">Browse by subject, then select a piece for more views and product details.</p>
+      </div>
+      <div class="filters" role="group" aria-label="Filter the collection">
+        <button class="filter is-active" type="button" data-filter="all" aria-pressed="true">All pieces</button>
+        <button class="filter" type="button" data-filter="heritage" aria-pressed="false">Heritage</button>
+        <button class="filter" type="button" data-filter="devotional" aria-pressed="false">Devotional</button>
+        <button class="filter" type="button" data-filter="wildlife" aria-pressed="false">Wildlife</button>
+        <button class="filter" type="button" data-filter="objects" aria-pressed="false">Objects</button>
+        <button class="filter" type="button" data-filter="sculptural" aria-pressed="false">Sculptural forms</button>
+      </div>
+      <div class="product-grid" id="productGrid" aria-live="polite"></div>
+      <div class="gallery-note"><strong>A piece that feels like yours.</strong><span>Open any sculpture to see more angles and request details.</span></div>
+    </section>
+    <section class="feature-band">
+      <div class="feature-image"><img src="./assets/sdp_5021.jpg" alt="Fibre lion sculpture"></div>
+      <div class="feature-copy">
+        <p class="eyebrow" id="featureEyebrow">A statement in form</p>
+        <h2 id="featureTitle">Character, captured in every curve.</h2>
+        <p id="featureDescription">From a proud lion to a serene Buddha, the collection moves between strength and stillness, tradition and contemporary display.</p>
+        <a class="text-link" href="#collection" data-filter-link="wildlife">Discover wildlife forms <span>↗</span></a>
+      </div>
+    </section>
+    <section class="enquiry" id="enquire">
+      <p class="eyebrow" id="enquiryEyebrow">Your next piece begins here</p>
+      <h2 id="enquiryTitle">Which one has your attention?</h2>
+      <p id="enquiryDescription">Open any piece to ask about its size, price or availability. Add your contact details in site-config.js to connect the enquiry button to WhatsApp or email.</p>
+      <button class="button button-light" type="button" data-share>Share the collection <span>↗</span></button>
+    </section>
+  </main>
+  <footer class="footer">
+    <div><strong id="footerBrand">Fibre Sculptures</strong><span>· A selected product presentation</span></div>
+    <div class="footer-nav"><a href="#collection">Collection</a><button type="button" data-share>Share page</button><a href="#enquire">Enquire</a></div>
+  </footer>
+  <div class="modal" id="productModal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-panel">
+      <button class="modal-close" id="modalClose" type="button" aria-label="Close details">×</button>
+      <div class="modal-gallery">
+        <img id="modalImage" src="" alt="">
+        <button class="gallery-arrow previous" id="prevImage" type="button" aria-label="Previous photo">‹</button>
+        <button class="gallery-arrow next" id="nextImage" type="button" aria-label="Next photo">›</button>
+      </div>
+      <div class="modal-details">
+        <p class="eyebrow" id="modalCategory"></p>
+        <h2 id="modalTitle"></h2>
+        <p id="modalDescription"></p>
+        <div id="modalSpecs" class="modal-specs"></div>
+        <p id="modalPrice" class="modal-price"></p>
+        <div class="modal-actions">
+          <button class="button button-dark" id="enquireProduct" type="button">Enquire about this piece <span>↗</span></button>
+          <button class="button button-outline" id="closeDetails" type="button">Back to collection</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
